@@ -23,7 +23,7 @@ App: https://decisions--88bemym06h.expo.app/
     npx expo start
    ```
 
-3. Locally explore the Decisions app!
+3. Locally explore the Decisions app on the web, Android, and iOS!
 
 ---
 
