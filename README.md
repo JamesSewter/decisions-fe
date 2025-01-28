@@ -2,9 +2,12 @@
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-This app was made using React Native, TypeScript, Expo, and socket.io.
+Description
+This app allows users to make decisions more easily. This app was made using React Native, TypeScript, Expo, and socket.io to enable live voting and offer a pleasant user experience.
 
-Find our hosted app here: https://decisions--88bemym06h.expo.app/ 
+Video: https://youtu.be/PdEE0mDj6Qo
+
+App: https://decisions--88bemym06h.expo.app/
 
 ## To run locally:
 
